@@ -1,21 +1,20 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Navreet, CSE undergrad student 👨‍💻 and aspiring full stack developer 🚀</div>  
-  
-
+<div style="display: flex">
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" style="width: 250px" />
+</div> 
+<div>
 - 🔭 I’m currently working on Data structures and Algorithms  
-  
-
+  <br>
 - 🌱 I’m currently learning Database Management  
-  
-
 <br/>  
+</div>
+</div>
+<br/>  <br/>  <br/>  <br/>  <br/>    
 
-
-## My Skill Set  
+## My Skill Set
 <table><tr><td valign="top" width="33%">
 
 
