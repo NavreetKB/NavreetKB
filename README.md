@@ -3,7 +3,7 @@
 ### <div align="center">I'm Navreet, CSE undergrad student 👨‍💻 and aspiring full stack developer 🚀</div>  
 <div style="display: flex">
 <div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" style="width: 250px" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" style="width: 200px" />
 </div> 
 <div>
 - 🔭 I’m currently working on Data structures and Algorithms  
