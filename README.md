@@ -1,6 +1,81 @@
+# Hi, I'm Navreet Kaur 👋
+
+ I am a 2nd year CSE student and I am passionate about coding and learning new technologies.
+<br><br><br>
+<div style="display: flex">
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" style="width: 200px" />
+</div> 
+<div>
+  
+## 🚀 About Me
+
+- 🎓 Currently studying **Data Structures and Algorithms**
+- 💻 I specialize in **C, C++**
+- 🌱 I’m currently learning **Pytohn**
+- 🖥️ Passionate about **Frontend development**
+
+<br/>  
+</div>
+</div>
+
+## 🛠️ Skills
+<div align="left">
+ 
+ 
+ 
+</div>
+
+### Programming Languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />  
+
+- C
+- C++
+- Python
+
+### Web development:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /><img width="12" />
+- HTML, CSS
+- Javascript
+- ReactJS
+- Php
+
+### Databases:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /><img width="12" />
+  
+- MySQL
+- Oracle
+
+## 🔭 Current Projects
+
+- Hospital Management System - A database project for hospital management.
+- Airline Ticketing system - A web interface for Airline management.
+
+## 📈 GitHub Stats
 
 
-### <div align="center">I'm Navreet, CSE undergrad student 👨‍💻 and aspiring full stack developer 🚀</div>  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NavreetKB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NavreetKB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+## Connect with me  
+<a href="https://www.linkedin.com/in/navreet-kaur-7206862b3" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+
+
+
+
+
+
+<!--
+<h2 align="left">Hi 👋! I am Navreet Kaur and I'm a 2nd Year CSE student</h2> 
 <div style="display: flex">
 <div align="right">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" style="width: 200px" />
@@ -8,7 +83,6 @@
 <div>
 - 🔭 I’m currently working on Data structures and Algorithms  
   <br>
-- 🌱 I’m currently learning Database Management  
 <br/>  
 </div>
 </div>
@@ -65,29 +139,17 @@
   
 
 <br/>  
+<br/>
+
+
+###
+
+
+
+###
+
 
 
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NavreetKB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 -->
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
